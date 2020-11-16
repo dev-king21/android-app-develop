@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Activities</string>
+
+    <string name="title_activity_dispaly">DispalyActivity</string>
+    <string name="dummy_button">Return</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string-array name="car_maker">
+        <item>Volvo</item>
+        <item>Mini</item>
+        <item>Volkswagen</item>
+    </string-array>
+</resources>
